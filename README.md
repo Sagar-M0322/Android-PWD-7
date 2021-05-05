@@ -14,8 +14,9 @@ npm -v
 node -v
 
 # Commands to run 
-npm init
-node server.js
+In terminal on the project directory
+npm install
+npm start
 
 
 
