@@ -15,8 +15,8 @@ node -v
 
 # Commands to run 
 In terminal on the project directory
-npm install
-npm start
+#npm install
+#npm start
 
 
 
